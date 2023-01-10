@@ -11,6 +11,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
-        server: promaydo-tech.com
-        username: promayd1
-        password: 844J(zfgE+uC1H       
+        server: ftp.promaydo-tech.com
+        username: cicd@promaydo-tech.com
+        password: Smpn2p124!
